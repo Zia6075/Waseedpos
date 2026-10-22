@@ -1,2 +1,2 @@
-version=4.2.4
-url=https://github.com/Zia6075/Waseedpos/releases/download/v4.2.4/WaheedVeterinary_Setup_4.2.4.exe
+version=4.2.5
+url=https://github.com/Zia6075/Waseedpos/releases/download/v4.2.5/WaheedVeterinary_Setup_4.2.5.exe
